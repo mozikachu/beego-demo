@@ -23,6 +23,7 @@ _testmain.go
 
 *.tmp
 *.exe
+*.exe~
 *.test
 *.prof
 /routers/commentsRouter*.go
