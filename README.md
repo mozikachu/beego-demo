@@ -31,7 +31,7 @@ A beego API demo
 3. `bee run`
     
     ```bash
-    $ cd $GOPATH/github.com/mozikachu/beego-demo
+    $ cd $GOPATH/src/github.com/mozikachu/beego-demo
     $ bee run
     ```
 
